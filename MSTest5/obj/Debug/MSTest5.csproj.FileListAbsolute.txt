@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\MSTest5\bin\Debug\MSTest5.exe.config
+C:\Users\ADMIN\source\repos\MSTest5\bin\Debug\MSTest5.exe
+C:\Users\ADMIN\source\repos\MSTest5\bin\Debug\MSTest5.pdb
+C:\Users\ADMIN\source\repos\MSTest5\obj\Debug\MSTest5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\MSTest5\obj\Debug\MSTest5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\MSTest5\obj\Debug\MSTest5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MSTest5\obj\Debug\MSTest5.exe
+C:\Users\ADMIN\source\repos\MSTest5\obj\Debug\MSTest5.pdb
