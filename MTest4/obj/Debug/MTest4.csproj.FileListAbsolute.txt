@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\MTest4\bin\Debug\MTest4.exe.config
+C:\Users\ADMIN\source\repos\MTest4\bin\Debug\MTest4.exe
+C:\Users\ADMIN\source\repos\MTest4\bin\Debug\MTest4.pdb
+C:\Users\ADMIN\source\repos\MTest4\bin\Debug\nunit.framework.dll
+C:\Users\ADMIN\source\repos\MTest4\bin\Debug\nunit.framework.xml
+C:\Users\ADMIN\source\repos\MTest4\obj\Debug\MTest4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\MTest4\obj\Debug\MTest4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\MTest4\obj\Debug\MTest4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MTest4\obj\Debug\MTest4.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\MTest4\obj\Debug\MTest4.exe
+C:\Users\ADMIN\source\repos\MTest4\obj\Debug\MTest4.pdb
