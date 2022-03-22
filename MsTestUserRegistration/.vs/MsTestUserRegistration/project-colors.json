@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db481643-5db9-4e20-97f2-583ba6d70d43": {
+      "ProjectGuid": "db481643-5db9-4e20-97f2-583ba6d70d43",
+      "DisplayName": "MsTestUserRegistration",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "046ca47d-5111-49fa-8a25-f52e6ac59f5c": {
+      "ProjectGuid": "046ca47d-5111-49fa-8a25-f52e6ac59f5c",
+      "DisplayName": "MsTestUserRegistraA",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
